@@ -12,7 +12,7 @@
 		<title></title>
 	</head>
 	<body>
-	Halo
+	Halo-halo~
 	</body>
 	</html>
 	exit;
