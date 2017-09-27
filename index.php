@@ -6,6 +6,15 @@
 	}
 	$uri .= $_SERVER['HTTP_HOST'];
 	header('Location: '.$uri.'/dashboard/');
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	Halo
+	</body>
+	</html>
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(
